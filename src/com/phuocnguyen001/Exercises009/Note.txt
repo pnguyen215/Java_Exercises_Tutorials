@@ -1,0 +1,3 @@
+Some are called reciprocal numbers if we read from left to right or right to left, 
+we still get the same number. 
+Please list all six-digit malicious reversal numbers (Example: 558855).

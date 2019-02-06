@@ -1,0 +1,13 @@
+Naive String Matches string matching algorithm
+an ancient string matching algorithm but almost all other methods are based on it like KMP algorithm, ... This is a thought-based algorithm that compares linearity so its complexity is O (n m) * m) quite large compared to KMP is O (n)
+
+
+Example: 
+
+
+Position: 2
+Position: 6
+Position: 12
+
+
+

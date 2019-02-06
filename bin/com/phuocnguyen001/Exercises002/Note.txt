@@ -1,0 +1,2 @@
+Find the largest common divisor, 
+the smallest common multiple of two natural numbers a and b

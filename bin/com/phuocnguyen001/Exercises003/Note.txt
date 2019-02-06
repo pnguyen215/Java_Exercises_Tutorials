@@ -1,0 +1,1 @@
+Convert any a number base decimal to any b base number (1 < b <= 36)
