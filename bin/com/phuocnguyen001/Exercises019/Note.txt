@@ -1,0 +1,1 @@
+Give input3.txt file, Write method to separate text in file into tokens (using StreamTokenizer), sort order tokens from az, indicate how many tokens and words, how many tokens is the number and sum them all.

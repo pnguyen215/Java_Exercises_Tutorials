@@ -1,0 +1,11 @@
+Creating the Calculator class has the following two methods:
+• public double divide (int a, int b): Divide two integers
+• public int multipy (int a, int b): Multiply two integers
+- Method of dividing the implementation of division a / b. If parameter b = 0, the method
+throwing ArithmeticException with the message is "not divided by 0".
+- Method multiply to perform multiplication a * b. If the value of a and b is outside
+range [-1000, 1000] then throw the NumberOutOfRangeException exception with the message
+The message "So far outside of Vietnam". NumberOutOfRangeException is one
+Student-defined exception.
+- Write the main function to recheck the Calculator class functions, handle exceptions
+occurs and shows notifications on the console screen.

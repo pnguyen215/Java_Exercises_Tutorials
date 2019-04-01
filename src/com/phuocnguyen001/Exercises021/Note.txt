@@ -1,0 +1,6 @@
+[Standardize string in java]
+
+
+
+We have standardized the string by deleting meaningless spaces. Now we will standardize the words that will capitalize words like individual nouns (Ha-noi, Viet-nam ...)
+To do this, we should first normalize as usual. The next step is to capitalize the first letters of each word. We use the split method () to separate the string into an array of words. Then use String.valueOf (). ToUperCase () to capitalize the first character each last word is connected to their remaining characters in the substring (1). So there's an array of capitalized words, followed by connecting words together and separated by a space.

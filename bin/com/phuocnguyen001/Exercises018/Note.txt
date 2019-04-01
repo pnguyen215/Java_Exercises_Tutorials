@@ -1,0 +1,1 @@
+Give the file input2.txt to write the file reading method, use the String Tokenizer to separate the string and count the number of words with initial capital letters. (The input contains both letters and numbers)

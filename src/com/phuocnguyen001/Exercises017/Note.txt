@@ -1,0 +1,1 @@
+Give the file input1.txt to write the file reading method, use the split function of the String class to separate the string and find all the longest words in the paragraph, print out all the words and the number of letters of the word, zero is counted as a word, punctuation is not counted in the length of the word. (The input contains both letters and numbers)
