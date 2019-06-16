@@ -8,7 +8,6 @@ public class Main {
 		int b = 17;
 		int c = a + b;
 		System.out.println(c);
-// hello
 
 	}
 

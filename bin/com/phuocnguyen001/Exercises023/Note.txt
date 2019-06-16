@@ -1,1 +1,1 @@
-[Convert integer to String in java]
+Calculate the value of the polynomial P (x) = anxn + an-1xn-1 + ... + a1x + a0 according to the calculation of Horner: P (x) = (((anx + an1) x + an-2 ... + a1) x + a0
