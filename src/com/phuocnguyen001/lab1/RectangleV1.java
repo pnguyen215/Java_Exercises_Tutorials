@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 import java.io.Serializable;
 

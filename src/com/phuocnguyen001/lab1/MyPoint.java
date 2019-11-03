@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class MyPoint {
 	private int x = 0;
@@ -45,6 +45,7 @@ public class MyPoint {
 		return Math.sqrt(xDiff * xDiff + yDiff * yDiff);
 	}
 
+	@Override
 	public String toString() {
 		return "(" + this.x + ", " + this.y + ")";
 	}

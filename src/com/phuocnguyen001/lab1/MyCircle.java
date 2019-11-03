@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class MyCircle {
 	private MyPoint center;
@@ -46,6 +46,7 @@ public class MyCircle {
 		return Math.PI * radius * radius;
 	}
 
+	@Override
 	public String toString() {
 		return "Circle @ " + this.center + " radius=" + this.radius;
 	}

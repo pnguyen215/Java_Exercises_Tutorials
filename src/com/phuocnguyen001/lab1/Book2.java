@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class Book2 {
 
@@ -62,8 +62,8 @@ public class Book2 {
 		String string = "";
 		String string2 = "";
 		for (Author author : this.authors) {
-			string = ("Author[name = " + author.getName() + ", " + "email = " + author.getEmail() + ", " + "gender = "
-					+ author.getGender() + "]");
+			string = "Author[name = " + author.getName() + ", " + "email = " + author.getEmail() + ", " + "gender = "
+					+ author.getGender() + "]";
 			string2 += string;
 		}
 		return string2;

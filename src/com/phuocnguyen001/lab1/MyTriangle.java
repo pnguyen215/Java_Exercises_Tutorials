@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class MyTriangle {
 	private MyPoint v1;
@@ -34,6 +34,7 @@ public class MyTriangle {
 		return "scalene";
 	}
 
+	@Override
 	public String toString() {
 		return "Triangle @ " + v1 + ", " + v2 + ", " + v3;
 	}

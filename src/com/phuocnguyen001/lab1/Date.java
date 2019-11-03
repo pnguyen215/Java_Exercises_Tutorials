@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class Date {
 
@@ -42,7 +42,7 @@ public class Date {
 		this.month = month;
 		this.year = year;
 	}
-	
+
 	@Override
 	public String toString() {
 		return this.date + "/" + this.month + "/" + this.year;

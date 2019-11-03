@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class Invoice {
 
@@ -42,6 +42,6 @@ public class Invoice {
 	}
 
 	public double getAmountAfterDiscount() {
-		return (double)(amount - (amount *customer.getDiscount())/100);
+		return amount - amount * customer.getDiscount() / 100;
 	}
 }

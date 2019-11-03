@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab3;
+package com.phuocnguyen001.lab3;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

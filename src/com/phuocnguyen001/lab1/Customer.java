@@ -1,4 +1,4 @@
-package com.phuocnguyen.lab1;
+package com.phuocnguyen001.lab1;
 
 public class Customer {
 
@@ -39,6 +39,6 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return getName() + "("  + getId() + ")";
+		return getName() + "(" + getId() + ")";
 	}
 }
